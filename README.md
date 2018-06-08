@@ -1,3 +1,5 @@
+###BIG THANKS TO mitchellurgero!!!!!!
+
 # Mail-In-A-Box PHP Registration Script.
 
 Just a simple registraiton page with a simple captcha. Use's Mail-In-A-Box's built in API for creating email address's.
